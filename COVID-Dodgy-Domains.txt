@@ -1,1 +1,5 @@
 covid.mypatientspace.com
+covid.dev.1check.in
+covidapp.dev.1check.in
+covid.dev.1check.in
+covidapp.dev.1check.in
