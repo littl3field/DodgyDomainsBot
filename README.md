@@ -3,6 +3,8 @@ Repo for my DodgyDomainsBot output. Please contact me if you want contents remov
 
 The bot pulls data from various sources and dumps it here. 
 
+It will auto UPDATE every 10 MINUTES
+
 # Current project: Suspicious COVID domains
 
 [!] Disclamer: Some of these domains may be legitimate, please use this as a hunting tool and not a block list. No validity checks or enrichment has been done on these domains.
