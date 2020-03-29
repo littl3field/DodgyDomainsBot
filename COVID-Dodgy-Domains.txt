@@ -13208,3 +13208,11 @@ caronavirus.site
 *.caronavirus.site
 caronavirus.site
 tapin-covid.com
+*.app.wefightcovid19.online
+*.wefightcovid19.online
+*.opcovid.com
+opcovid.com
+www.covidwave.org
+www.covidwave.org
+welcome.coronava.net
+www.loveinthetimeof-corona.com
