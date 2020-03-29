@@ -14111,3 +14111,9 @@ coronavirusonline.xyz
 www.coronavirusonline.xyz
 sbacoronaloancenter.com
 www.sbacoronaloancenter.com
+waws-prod-blu-9db18001.ftp.p.azurewebsites.windows.net
+waws-prod-blu-9db18001.publish.p.azurewebsites.windows.net
+corona.savjobalert.com
+coronavirusespana.eu
+mail.coronavirusespana.eu
+www.coronavirusespana.eu
