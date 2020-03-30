@@ -1,1 +1,3 @@
-
+pre.beatcovidtrial.com
+azuregateway-ef7ea158-0dfd-47f5-87b4-3ab048fe86e6-369a71d106d1.vpn.microsoftazure.de
+ef7ea158-0dfd-47f5-87b4-3ab048fe86e6.vpn.microsoftazure.de
