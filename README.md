@@ -1,15 +1,12 @@
 ## DodgyDomainsBot
 Repo for my DodgyDomainsBot output. Please contact me if you want contents removed.
 
-The bot pulls data from various sources and dumps it here. 
-
-It will auto UPDATE every 10 MINUTES
+- The bot pulls data from various sources and dumps it here. 
+- It will auto UPDATE every 10 MINUTES (depending if server is up)
 
 [!] IMPORTANT: 
-
-COVID-Dodgy-Domains.txt = UNVETTED DATA
-
-COVID-Confirmed-Dodgy-Domains.txt = VETTED DATA
+- COVID-Dodgy-Domains.txt = UNVETTED DATA
+- COVID-Confirmed-Dodgy-Domains.txt = VETTED DATA
 
 # Current project: Suspicious COVID domains
 
