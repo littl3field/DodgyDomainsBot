@@ -7299,3 +7299,9 @@ dnhs.e2econsultancy.ph
 hospital.e2econsultancy.ph
 www.dnhs.e2econsultancy.ph
 www.hospital.e2econsultancy.ph
+cpanel.mastermindadvisory.com
+mail.mastermindadvisory.com
+mastermindadvisory.com
+webdisk.mastermindadvisory.com
+webmail.mastermindadvisory.com
+www.mastermindadvisory.com
