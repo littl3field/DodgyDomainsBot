@@ -7375,3 +7375,5 @@ webmail.corona.website-generator.net
 www.corona.website-generator.net
 test-ns-amqatest-2020-03-31-1341.com
 www.gov.nr.weryskok.space
+nabor.copona.ru
+www.nabor.copona.ru
