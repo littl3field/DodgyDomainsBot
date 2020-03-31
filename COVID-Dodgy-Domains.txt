@@ -7245,3 +7245,11 @@ www.1918flupandemic.com
 www.my-plumber-co-uk-new.dev.1dxr.com
 *.nhstayside.scot.nhs.uk.admin-us.cas.ms
 alertmanager-main-openshift-monitoring.apps.ocpgcp.staging.scale-medtech.com
+covidngo.drbailylabs.com
+covidngo.drbailylabs.com
+covidfreecheck.com
+www.covidfreecheck.com
+covidfreecheck.com
+www.covidfreecheck.com
+covidfreecheck.com
+www.covidfreecheck.com
