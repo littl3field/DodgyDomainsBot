@@ -7354,3 +7354,17 @@ trackingcovid19.wordifysites.com
 www.trackingcovid19.ca
 covid19.simpple.com.sg
 www.covid19.simpple.com.sg
+autodiscover.hospitalityprocure.com
+cpanel.hospitalityprocure.com
+hospitalityprocure.com
+mail.hospitalityprocure.com
+webdisk.hospitalityprocure.com
+webmail.hospitalityprocure.com
+www.hospitalityprocure.com
+whereiscal.caadvisory.co
+www.whereiscal.caadvisory.co
+www.covid-19.rarumaloney.com
+covid-19.staproko.com
+www.covid-19.staproko.com
+www.simscovid.com
+alertmanager-stage-1.c19.thlab.tech
