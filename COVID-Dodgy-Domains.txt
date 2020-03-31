@@ -6647,3 +6647,8 @@ webmail.smalltalkadvisory.peakice.com
 www.smalltalkadvisory.com.au
 www.smalltalkadvisory.peakice.com
 stakeholder.staging.incidentalerts.service.ncsc.gov.uk
+coronavirus.xxx
+www.coronavirus.xxx
+b2bcatalog.nhi-group.ru
+whs.thesolomons.com
+covid19.gresikbaik.com
