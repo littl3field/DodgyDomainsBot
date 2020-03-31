@@ -7370,3 +7370,8 @@ www.simscovid.com
 alertmanager-stage-1.c19.thlab.tech
 www.next2print.com.anauko.com
 nas.ajithv.in
+corona.website-generator.net
+webmail.corona.website-generator.net
+www.corona.website-generator.net
+test-ns-amqatest-2020-03-31-1341.com
+www.gov.nr.weryskok.space
