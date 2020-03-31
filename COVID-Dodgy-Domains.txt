@@ -7441,3 +7441,12 @@ cosmetic-hospital.com
 www.cosmetic-hospital.com
 cosmetic-hospital.com
 www.cosmetic-hospital.com
+covid19ert.accenture.com
+covid19karta.ru
+www.covid19karta.ru
+trackingcovid19.ca
+www.trackingcovid19.ca
+covid19library.org
+mail.covid19library.org
+www.covid19library.org
+autodiscover.bhs.bg
