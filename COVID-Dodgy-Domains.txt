@@ -7579,3 +7579,12 @@ api.staging.coronatracker.com
 test.coronapp-bo.itss.paris
 test.coronapp-web.itss.paris
 test.coronapp-front.itss.paris
+signin.ebay.com-ws.up7.pw
+www.signin.ebay.com-ws.up7.pw
+dev.lladvisorygroup.com
+nps-unitedhealthgroup.uat02.thebigknow.com
+phs.uat02.thebigknow.com
+covid19.ahmetcanvarisli.com
+www.covid19.ahmetcanvarisli.com
+thesplendidhospitality.com
+www.thesplendidhospitality.com
