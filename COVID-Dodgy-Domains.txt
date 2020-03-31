@@ -7565,3 +7565,17 @@ protect.hhs.gov
 stopcoronavirus.cz
 www.stopcoronavirus.cz
 covid-19-monitor.now.sh
+coronavirusscreening-org.taleicapital.com
+www.coronavirusscreening-org.taleicapital.com
+app.coronapp.eu
+api.coronapp.eu
+ehs-rheinmain.de
+www.ehs-rheinmain.de
+coronavirus.seeurwatch.com
+www.coronavirus.seeurwatch.com
+get-covid.info
+crm.hospitalitywholesale.com.au
+api.staging.coronatracker.com
+test.coronapp-bo.itss.paris
+test.coronapp-web.itss.paris
+test.coronapp-front.itss.paris
