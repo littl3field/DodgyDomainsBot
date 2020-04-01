@@ -10065,3 +10065,9 @@ webdisk.vinamraswarajhospital.com
 webmail.vinamraswarajhospital.com
 www.vinamraswarajhospital.com
 mail.vipraservices.com.md-in-75.webhostbox.net
+accounts.test.bakeronline.com.bakeronline.dev
+aloropethospital.com
+www.aloropethospital.com
+mail.peopleshospitalltd.com
+peopleshospitalltd.com
+www.peopleshospitalltd.com
