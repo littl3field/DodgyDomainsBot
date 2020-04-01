@@ -9294,3 +9294,6 @@ www.pentahospitals.cz
 pentahospitals.cz
 www.pentahospitals.cz
 origin-medias.ubaldi.com.base-zltgefy-sh5arukcc53gc.eu-2.platformsh.site
+mhra-pandemic-dev-1.redant.cloud
+queue.prp1-e-cust-auk2.np.apply-to-visit-or-stay-in-the-uk.homeoffice.gov.uk
+covid-population.locational.io
