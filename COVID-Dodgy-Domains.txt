@@ -8339,3 +8339,4 @@ www.corona-schutzprodukte.ch
 dev.covid19.trackercli.com
 coronavirus.vbmsoft.com
 www.coronavirus.vbmsoft.com
+cronica-corona.ch
