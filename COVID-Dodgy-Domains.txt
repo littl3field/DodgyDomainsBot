@@ -9679,3 +9679,11 @@ cpanel.lumierehospitality.com
 cpcalendars.lumierehospitality.com
 cpcontacts.lumierehospitality.com
 mail.lumierehospitality.com
+webdisk.lumierehospitality.com
+webmail.lumierehospitality.com
+www.nos-abeilles-en-provence.com
+afspraak.nxs-networks.com
+www.afspraak.nxs-networks.com
+hospitalityclub.co.uk
+www.hospitalityclub.co.uk
+www.heycovid19.com
