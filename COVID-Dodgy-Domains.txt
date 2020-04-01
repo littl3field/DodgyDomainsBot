@@ -7976,3 +7976,11 @@ mail.covid19count.in
 webdisk.covid19count.in
 webmail.covid19count.in
 www.covid19count.in
+latestcoronavirusupdates.info
+www.unhshoes.com
+payment.covid19.kaissa.io
+covid19.kaissa.io
+covid.craigljohnson.com
+covid19.synthysys.io
+www.covid19.synthysys.io
+covid19api.xapix.io
