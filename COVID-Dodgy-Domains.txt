@@ -9062,3 +9062,12 @@ nas.home.krikkecloud.nl
 hq-nas.christians-hub.org
 hq-nas.christians-hub.org
 biopandemics.com
+covidzero.captable.com.br
+covidzero.captable.com.br
+covi.alantis.ro
+covi.alantis.ro
+www.coronacastlive.com
+autodiscover.coronavirusgist.com
+coronavirusgist.com
+cpanel.coronavirusgist.com
+webdisk.coronavirusgist.com
