@@ -10182,3 +10182,15 @@ corona-co-rs.coronaco.mycpanel.rs
 cpanel.corona.co.rs
 cpcalendars.corona.co.rs
 cpcontacts.corona.co.rs
+mail.corona.co.rs
+webdisk.corona.co.rs
+webmail.corona.co.rs
+www.corona-co-rs.coronaco.mycpanel.rs
+pav-passau.nhw.hu
+www.pav-passau.nhw.hu
+bukharahouse.com.cp-in-20.webhostbox.net
+mail.bukharahouse.com.cp-in-20.webhostbox.net
+www.bukharahouse.com.cp-in-20.webhostbox.net
+bukharahouse.com.cp-in-20.webhostbox.net
+mail.bukharahouse.com.cp-in-20.webhostbox.net
+www.bukharahouse.com.cp-in-20.webhostbox.net
