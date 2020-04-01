@@ -9516,3 +9516,16 @@ mail.hospitalnutritiontoday.com
 webdisk.hospitalnutritiontoday.com
 webmail.hospitalnutritiontoday.com
 www.hospitalnutritiontoday.com
+covid-collab.org
+covid-collab.org
+alertmanager.stats-dev.dev.k8s.tubemogul.info
+autodiscover.lawyers4covid19.com
+cpanel.lawyers4covid19.com
+lawyers4covid19.com
+mail.lawyers4covid19.com
+webdisk.lawyers4covid19.com
+webmail.lawyers4covid19.com
+www.lawyers4covid19.com
+alertmanager.stats-dev.dev.k8s.tubemogul.info
+alertmanager.roh.dev.k8s.tubemogul.info
+covaid.global
