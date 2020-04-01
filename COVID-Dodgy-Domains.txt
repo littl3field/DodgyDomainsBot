@@ -7886,3 +7886,14 @@ webdisk.pfeiferadvisory.org
 webmail.pfeiferadvisory.org
 www.pfeiferadvisory-org.thegillaspies.com
 www.pfeiferadvisory.org
+covid19tracker.io
+covid-19.financial
+www.covid-19.financial
+autoconfig.asd-nms.de
+autodiscover.asd-nms.de
+pa-vpn-1a.gov-fra.me
+pa-vpn-1a.gov-fra.me
+mail.bluesharkservices.com.md-in-29.webhostbox.net
+www.bluesharkservices.com.md-in-29.webhostbox.net
+mail.bluesharkservices.com.md-in-29.webhostbox.net
+www.bluesharkservices.com.md-in-29.webhostbox.net
