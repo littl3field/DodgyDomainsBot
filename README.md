@@ -8,7 +8,7 @@ Repo for my DodgyDomainsBot output. Please contact me if you want contents remov
 - COVID-Dodgy-Domains.txt = UNVETTED DATA
 - COVID-Confirmed-Dodgy-Domains.txt = VETTED DATA
 
-Updating COVID with data from this bot AND URLScan hunting
+Updating COVID-Confirmed-Dodgy-Domains.txt with data from this bot and from hunting
 
 # Current project: Suspicious COVID domains
 
