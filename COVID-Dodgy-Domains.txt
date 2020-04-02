@@ -11571,3 +11571,17 @@ solidarite-covid-19.nel-telecom.com
 covid19admin.bizeebuy.com
 covid19.bizeebuy.com
 cpanel.vermahospital.in
+mail.vermahospital.in
+vermahospital.in
+webdisk.vermahospital.in
+webmail.vermahospital.in
+www.vermahospital.in
+logistica.sos3dcovid19.com.br
+advisor-api.demo.epsor.fr
+advisor-api.staging.epsor.fr
+advisor-api.staging.epsor.fr
+www.covid19api.olasoft.net
+covid19api.olasoft.net
+publikationen.ehs-verlag.de
+corona.klimainitiative.org
+hisgloryhospital.eclathealthcare.com
