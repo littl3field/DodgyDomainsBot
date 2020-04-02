@@ -11021,3 +11021,6 @@ webmail.cpiadvisory.com
 www.aashirwadonline.com.panonlineservices.com
 account.authentication.update.session.id.signinauth.com
 www.account.authentication.update.session.id.signinauth.com
+portal.comid-d630670d.core.build.vwn.cloud
+www.portal.comid-d630670d.core.build.vwn.cloud
+idp.comid-d630670d.core.build.vwn.cloud
