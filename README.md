@@ -12,4 +12,4 @@ Updating this with data from this bot and from hunting)
 
 # Current project: Suspicious COVID domains
 
-[!] Disclamer: Some of these domains may be legitimate, please use this as a hunting tool and not a block list. No validity checks or enrichment has been done on these domains. Bot is sending all data to URLScan.io which will be reviewed manually.
+[!] Disclamer: Some of these domains may be legitimate, please use this as a hunting tool and not a block list. No validity checks or enrichment has been done "COVID-Dodgy-Domains.txt" domains. Bot is sending all data to URLScan.io which will be reviewed manually and added to "COVID-Confirmed-Dodgy-Domains.txt".
