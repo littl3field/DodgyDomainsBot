@@ -11905,3 +11905,12 @@ autodiscover.student.hs-rm.de
 autodiscover.hs-rm.de
 autodiscover.student.hs-rm.de
 commercialsummit.deutschehospitality.com
+bellwetheradvisory.com
+www.bellwetheradvisory.com
+autodiscover.nps-emirates.com
+cpanel.nps-emirates.com
+mail.nps-emirates.com
+nps-emirates.com
+webdisk.nps-emirates.com
+webmail.nps-emirates.com
+www.nps-emirates.com
