@@ -1,7 +1,7 @@
 ## DodgyDomainsBot
 Repo for my DodgyDomainsBot output. Please contact me if you want contents removed.
 
-- The bot pulls data from various sources and dumps it here. 
+- The bot pulls data from various sources and dumps it here. Please use this as a hunting tool only.
 - It will auto UPDATE every 10 MINUTES (depending if server is up)
 
 [!] IMPORTANT: 
