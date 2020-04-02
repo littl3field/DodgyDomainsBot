@@ -11945,3 +11945,7 @@ webdisk.nahashospital.in
 webmail.nahashospital.in
 www.nahashospital.in
 sql.nbs-hamburg.net
+stage.aivscovid19.com
+covid19.doxiva.com
+www.mycoronaevents.com
+ns.hosting335.com
