@@ -11979,3 +11979,9 @@ covid2019rapidtest.com
 www.covid2019rapidtest.com
 covidcoughcollector.com
 www.covidcoughcollector.com
+covidbrooklyn.com
+2c0dac092fafe7a0e5825506b7bdd1c6.staging.nhsla.net
+mdl-sl-surrey.staging.nhsla.net
+covid19intervention.com
+dev.gitlab.womenschildrenshospital.com
+magento.gitlab.womenschildrenshospital.com
