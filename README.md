@@ -8,6 +8,8 @@ Repo for my DodgyDomainsBot output. Please contact me if you want contents remov
 - COVID-Dodgy-Domains.txt = UNVETTED DATA
 - COVID-Confirmed-Dodgy-Domains.txt = VETTED DATA
 
+Updating COVID with data from this bot AND URLScan hunting
+
 # Current project: Suspicious COVID domains
 
 [!] Disclamer: Some of these domains may be legitimate, please use this as a hunting tool and not a block list. No validity checks or enrichment has been done on these domains. Bot is sending all data to URLScan.io which will be reviewed manually.
