@@ -10529,3 +10529,17 @@ www.covid19reliefinitiative.org
 helpdesk.ngs.inf.br
 auditandadvisory.com
 www.auditandadvisory.com
+ns-network.net
+www.ns-network.net
+coronavirus.santjust.net
+autodiscover.helpforcoronavirus.eu
+cpanel.helpforcoronavirus.eu
+cpcalendars.helpforcoronavirus.eu
+cpcontacts.helpforcoronavirus.eu
+helpforcoronavirus.amanetelectronice.ro
+helpforcoronavirus.eu
+mail.helpforcoronavirus.eu
+webdisk.helpforcoronavirus.eu
+webmail.helpforcoronavirus.eu
+www.helpforcoronavirus.amanetelectronice.ro
+www.helpforcoronavirus.eu
