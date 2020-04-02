@@ -11271,3 +11271,15 @@ android.coronavirus-world.info
 www.android.coronavirus-world.info
 android.coronavirus-world.info
 www.android.coronavirus-world.info
+covid19.uisa.com.br
+www.covid19.uisa.com.br
+alertmanager.fred-colon.k8s.aws.dev.kobil.com
+paypal.com.us-cgi-bin.webscr-cmd-login-run.telar.cl
+www.paypal.com.us-cgi-bin.webscr-cmd-login-run.telar.cl
+paypal.com.us-cgi-bin.webscr-cmd-login-run.telar.cl
+www.paypal.com.us-cgi-bin.webscr-cmd-login-run.telar.cl
+paypal.com.us-cgi-bin.webscr-cmd-login-run.telar.cl
+www.paypal.com.us-cgi-bin.webscr-cmd-login-run.telar.cl
+paypal.com.us-cgi-bin.webscr-cmd-login-run.telar.cl
+www.paypal.com.us-cgi-bin.webscr-cmd-login-run.telar.cl
+nas.scholten.pro
