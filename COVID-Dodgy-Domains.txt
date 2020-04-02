@@ -10681,3 +10681,8 @@ infocovid19.labuhanbatuselatankab.go.id
 www.infocovid19.labuhanbatuselatankab.go.id
 covid19.gentasari.desa.id
 www.covid19.gentasari.desa.id
+covid19.wadhwaniai.org
+covid19.classonline.co.th
+tutor-against-covid19.classonline.co.th
+mamglos-ns.pl
+www.mamglos-ns.pl
