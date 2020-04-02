@@ -6,9 +6,9 @@ Repo for my DodgyDomainsBot output. Please contact me if you want contents remov
 
 [!] IMPORTANT: 
 - COVID-Dodgy-Domains.txt = UNVETTED DATA
-- COVID-Confirmed-Dodgy-Domains.txt = VETTED DATA
+- COVID-Confirmed-Dodgy-Domains.txt = VETTED DATA (
+Updating this with data from this bot and from hunting)
 
-Updating COVID-Confirmed-Dodgy-Domains.txt with data from this bot and from hunting
 
 # Current project: Suspicious COVID domains
 
