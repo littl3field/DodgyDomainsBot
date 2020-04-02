@@ -11011,3 +11011,8 @@ nvs.online-constellation.com
 www.nvs.online-constellation.com
 nvs.online-constellation.com
 www.nvs.online-constellation.com
+api.staging.coronago.info
+support.servicedesk.work
+support.servicedesk.work
+www.hitachi-automotive-hs.co.jp
+www.hitachi-systems-ns.co.jp
