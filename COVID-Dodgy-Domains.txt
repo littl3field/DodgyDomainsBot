@@ -14116,3 +14116,17 @@ webdisk.hospitaldiavisualle.com.br
 webmail.hospitaldiavisualle.com.br
 www.hospitaldiavisualle.com.br
 www.hospitaldiavisualle.hospitaldiavisualle.com
+autodiscover.vpadvisory.com.au
+cpanel.vpadvisory.com.au
+cpcalendars.vpadvisory.com.au
+cpcontacts.vpadvisory.com.au
+mail.vpadvisory.com.au
+vpadvisory.com.au
+webdisk.vpadvisory.com.au
+webmail.vpadvisory.com.au
+www.vpadvisory.com.au
+spoken.slq.qld.gov.au.master-7rqtwti-h4cvtpfa7xrio.au.platformsh.site
+coronahelp.com.bd
+covid.teamkinetic.co.uk
+fb.catchhospitalitygroup.ca
+ar1617.chs.ca
