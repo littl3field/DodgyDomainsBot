@@ -13424,3 +13424,15 @@ mail.csr-nis.rs
 webdisk.csr-nis.rs
 webmail.csr-nis.rs
 www.csr-nis-rs.csrnis.mycpanel.rs
+nas.alberts-online.nl
+corona-ethnomed.spanisch.info-data.info
+corona-viruss.ru
+www.corona-viruss.ru
+coronavirus-monitor-ru.ru
+www.coronavirus-monitor-ru.ru
+covid19karta.ru
+www.covid19karta.ru
+contadores.ns-ads.info
+www.contadores.ns-ads.info
+osmotica.co.uk.osmotics.info
+www.osmotica.co.uk.osmotics.info
