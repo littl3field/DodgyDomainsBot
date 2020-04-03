@@ -13867,3 +13867,10 @@ covid19surveykanpurdehat.jobbook.in
 www.covid19surveykanpurdehat.jobbook.in
 covid19surveykanpurdehat.jobbook.in
 www.covid19surveykanpurdehat.jobbook.in
+robot-framework-tests.comid-4b1daa8b.core.build.vwn.cloud
+api.comid-4b1daa8b.core.build.vwn.cloud
+www.api.comid-4b1daa8b.core.build.vwn.cloud
+portal.comid-4b1daa8b.core.build.vwn.cloud
+www.portal.comid-4b1daa8b.core.build.vwn.cloud
+portal.comid-4b1daa8b.core.build.vwn.cloud
+www.portal.comid-4b1daa8b.core.build.vwn.cloud
