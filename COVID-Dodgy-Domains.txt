@@ -14870,3 +14870,14 @@ www.getcovidfacts.com
 admin.hospitalia.com.co
 izberg-env-covid19.eu-west-1.elasticbeanstalk.com
 izberg-env-covid19.eu-west-1.elasticbeanstalk.com
+academy.edutrainers.com.autoupdates.moodletest.eu
+academy.edutrainers.com.autoupdates.moodletest.eu
+api-korona.pikolasumperk.cz
+08fe269870bef130bd1b12b52c0e1936.production.nhsla.net
+08fe269870bef130bd1b12b52c0e1936.production.nhsla.net
+sajt-coronavirus.ru
+www.sajt-coronavirus.ru
+recyclons-nos-dechets.fr
+www.recyclons-nos-dechets.fr
+sajt-coronavirus.ru
+www.sajt-coronavirus.ru
